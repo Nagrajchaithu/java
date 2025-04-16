@@ -8,7 +8,7 @@ import java.util.TreeMap;
 public class Map12 {
 
 	public static void main(String[] args) {
-		Map <Integer ,String> hm1 = new HashMap<Integer,String>();
+		Map <Integer ,String> hm1 = new HashMap<>();
 		System.out.println("*********  Hashmap   **********");
 		hm1.put(1, "nagaraj");
 		hm1.put(2, "veda");

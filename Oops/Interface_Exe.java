@@ -12,7 +12,7 @@ public class Interface_Exe   {
 		a2.bikestrat();
 		a2.carstart();
 	    a2.proesesser();
-	    Interface_Exe aa=new Interface_Exe();
+	    
 	    
 		
 

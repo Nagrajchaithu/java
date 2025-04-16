@@ -10,7 +10,8 @@ public class Ifelseif {
 		System.out.println("enter a number");
 		int a= sc.nextInt();
 		if(a==1){
-			System.out.println("Hari");}
+			System.out.println("Hari");
+			}
 			else if(a>=2 && a<=4) {
 				System.out.println("Ram");
 			}

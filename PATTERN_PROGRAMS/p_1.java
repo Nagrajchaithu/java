@@ -1,12 +1,11 @@
 package PATTERN_PROGRAMS;
 
-public class reverse_patern {
+public class p_1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int a=5;
-		for(int i=0;i<=5;i++) {
-			for(int j=a;j>=i  ;j--) {
+		for(int i=0;i<=a;i++) {
+			for(int j=0;j<=a;j++) {
 				System.out.print(j+" ");
 			}
 			System.out.println();

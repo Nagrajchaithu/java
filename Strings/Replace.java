@@ -7,6 +7,7 @@ public class Replace {
 		System.out.println(s1.replace('w', 'o'));
 		System.out.println(s1.replace("well", "java"));
 		
+		
 
 	}
 

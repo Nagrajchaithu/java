@@ -8,6 +8,7 @@ public class equals {
 		String S1= "Java";
 		String S2="java";
 		System.out.println(S1.equals(S2));
+		
 	}
 
 }

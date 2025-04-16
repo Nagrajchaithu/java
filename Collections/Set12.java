@@ -20,7 +20,7 @@ public class Set12 {
 		hs1.remove(13);
 		System.out.println(hs1);
 		Set<Integer> lhs=new LinkedHashSet<Integer>();
-		System.out.println("Liked hash set ");
+		System.out.println("********    Liked hash set   *********** ");
 		lhs.add(123);
 		lhs.add(99);
 		lhs.add(111);
